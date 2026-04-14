@@ -4,7 +4,7 @@ const faqs = [
   {
     question: "Quais materiais podem ser gravados a laser?",
     answer:
-      "Trabalhamos com uma grande variedade de materiais, incluindo metais (aço inox, alumínio, latão), madeira, couro, acrílico, vidro e plásticos selecionados. Cada material recebe configurações específicas para garantir o melhor resultado.",
+      "Trabalhamos com uma grande variedade de materiais, incluindo metais (aço inox, alumínio, latão), couro, acrílico e plásticos selecionados. Cada material recebe configurações específicas para garantir o melhor resultado.",
   },
   {
     question: "A gravação a laser é permanente?",
