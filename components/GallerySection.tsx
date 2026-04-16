@@ -6,7 +6,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const galleryImages = [
   // Página 1
-  { src: "/images/gallery-01.jpeg", alt: "Trabalho NittLaser 1" },
+  { src: "/images/gallery-01.jpg", alt: "Trabalho NittLaser 1" },
   { src: "/images/gallery-02.jpeg", alt: "Trabalho NittLaser 2" },
   { src: "/images/gallery-03.jpeg", alt: "Trabalho NittLaser 3" },
   { src: "/images/gallery-04.jpeg", alt: "Trabalho NittLaser 4" },
@@ -18,7 +18,7 @@ const galleryImages = [
   { src: "/images/gallery-09.jpeg", alt: "Trabalho NittLaser 9" },
   { src: "/images/gallery-10.jpeg", alt: "Trabalho NittLaser 10" },
   { src: "/images/gallery-11.jpeg", alt: "Trabalho NittLaser 11" },
-  { src: "/images/gallery-12.jpeg", alt: "Trabalho NittLaser 12" },
+  { src: "/images/gallery-12.jpg", alt: "Trabalho NittLaser 12" },
   // Página 3
   { src: "/images/gallery-13.jpeg", alt: "Trabalho NittLaser 13" },
   { src: "/images/gallery-14.jpeg", alt: "Trabalho NittLaser 14" },
@@ -26,6 +26,13 @@ const galleryImages = [
   { src: "/images/gallery-16.jpeg", alt: "Trabalho NittLaser 16" },
   { src: "/images/gallery-17.jpeg", alt: "Trabalho NittLaser 17" },
   { src: "/images/gallery-18.jpeg", alt: "Trabalho NittLaser 18" },
+  // Página 4
+  { src: "/images/gallery-19.jpeg", alt: "Trabalho NittLaser 19" },
+  { src: "/images/gallery-20.jpeg", alt: "Trabalho NittLaser 20" },
+  { src: "/images/gallery-21.jpeg", alt: "Trabalho NittLaser 21" },
+  { src: "/images/gallery-22.jpeg", alt: "Trabalho NittLaser 22" },
+  { src: "/images/gallery-23.jpeg", alt: "Trabalho NittLaser 23" },
+  { src: "/images/gallery-24.jpeg", alt: "Trabalho NittLaser 24" },
 ];
 
 const ITEMS_PER_PAGE = 6;
