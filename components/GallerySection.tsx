@@ -6,8 +6,8 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const galleryImages = [
   // Página 1
-  { src: "/images/gallery-01.jpg", alt: "Trabalho NittLaser 1" },
-  { src: "/images/gallery-02.jpeg", alt: "Trabalho NittLaser 2" },
+  { src: "/images/gallery-01.jpg",  alt: "Trabalho NittLaser 1"},
+  { src: "/images/gallery-001.jpeg", alt: "Trabalho NittLaser 2" },
   { src: "/images/gallery-03.jpeg", alt: "Trabalho NittLaser 3" },
   { src: "/images/gallery-04.jpeg", alt: "Trabalho NittLaser 4" },
   { src: "/images/gallery-05.jpeg", alt: "Trabalho NittLaser 5" },
@@ -33,6 +33,8 @@ const galleryImages = [
   { src: "/images/gallery-22.jpeg", alt: "Trabalho NittLaser 22" },
   { src: "/images/gallery-23.jpeg", alt: "Trabalho NittLaser 23" },
   { src: "/images/gallery-24.jpeg", alt: "Trabalho NittLaser 24" },
+  //Página 5
+  { src: "/images/gallery-02.jpeg", alt: "Trabalho NittLaser 25" }
 ];
 
 const ITEMS_PER_PAGE = 6;

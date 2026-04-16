@@ -5,7 +5,7 @@ const WHATSAPP_NUMBER = "5521991631341";
 const products = [
   { name: "Canetas", image: "/images/product-pen.jpeg", description: "Elegância personalizada para presentear ou usar no dia a dia" },
   { name: "Copos Stanley", image: "/images/product-stanley.jpg", description: "Deixe seu Stanley com a sua cara, único e inconfundível" },
-  { name: "Facas", image: "/images/product-knife.jpeg", description: "Gravações precisas que adicionam identidade às suas lâminas" },
+  { name: "Facas", image: "/images/product-knife.png", description: "Gravações precisas que adicionam identidade às suas lâminas" },
   { name: "Garrafas", image: "/images/product-bottle.jpeg", description: "Garrafas personalizadas para uso pessoal ou brindes corporativos" },
   { name: "Pingentes", image: "/images/product-pendant.jpeg", description: "Jóias e acessórios com gravação delicada e permanente" },
 ];
